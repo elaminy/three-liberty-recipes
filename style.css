@@ -1,5 +1,12 @@
 .main.title {
-   color: green;
+   color: white;
+   text-align: center;
+   background-color: gray;
+
+}
+
+ul {
+   list-style: none;
 }
 
 .act.title {
@@ -24,4 +31,29 @@
 
 .below {
    font-family: Arial, Helvetica, sans-serif;
+}
+
+.choices {
+   background-color: pink;
+   padding: 10px;
+   text-align: center;
+
+}
+
+.span {
+   background-color: aqua;
+}
+
+.button {
+   background-color: greenyellow;
+}
+
+.image {
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+.choices {
+   margin-top: 21.44px;
 }
